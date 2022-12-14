@@ -1,0 +1,14 @@
+{
+  "name": "embalms28532",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Shopee Thailand ⭐ The best online marketplace in Singapore",
+  "keywords": [
+    "Shopee Thailand ⭐ The best online marketplace in Singapore"
+  ],
+  "repository": "https://github.com/applesociety/embalms28532",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
